@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# documentation files
+BOOKING_API_INTEGRATION.md
+PROPERTY_DETAIL_API_IMPLEMENTATION.md
+REVIEW_SECTION_API_INTEGRATION.md
